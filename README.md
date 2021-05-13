@@ -7,4 +7,5 @@ As the world became swayed by the COVID-19 spread, many people turned to social 
 The main branch contains the following Jupyter Notebook files:
 1. Hydration helps with lumping dataframes together for tweet hydration and filtering and cleaning the hydrated dataset;
 2. Continents and city size webscrapping: the code scrapes wikipedia for geographic and demographic information to add features to the dataset; 
+3. Evolution of tweets helps to understand how Twitter activity dynamics are aligned with major political and social events
 
